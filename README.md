@@ -1,4 +1,4 @@
-test-repo-RM
+datasciencecoursera
 ============
 
 Test repo for Coursera Data Scientist MOOC
